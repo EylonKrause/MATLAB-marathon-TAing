@@ -1,2 +1,2 @@
 # MATLAB marathon
-Marathon given to undergrad students in MATLAB
+TA Marathon given to undergrad students in MATLAB
